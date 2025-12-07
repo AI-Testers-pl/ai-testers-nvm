@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "baseUrl": "./",
+    "target": "ES2020",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
+    "useDefineForClassFields": false,
+    "skipLibCheck": true,
+    "types": ["node"],
+    "paths": {
+      "@tests/*": ["./src/tests/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

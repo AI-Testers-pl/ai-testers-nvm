@@ -1,0 +1,27 @@
+{
+  "name": "aitesters",
+  "version": "1.0.0",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@eslint/js": "9.39.1",
+    "@playwright/test": "1.58.2",
+    "@types/node": "24.10.1",
+    "eslint": "9.39.1",
+    "eslint-plugin-playwright": "2.7.0",
+    "globals": "17.3.0",
+    "jiti": "2.6.1",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.56.0"
+  },
+  "engines": {
+    "node": "24.13.1",
+    "npm": "11.8.0"
+  }
+}

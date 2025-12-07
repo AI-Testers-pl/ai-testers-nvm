@@ -1,0 +1,12 @@
+{
+  "git.confirmSync": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro",
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSaveDelay": 500,
+  "playwright.reuseBrowser": true,
+  "chat.mcp.gallery.enabled": true
+}
