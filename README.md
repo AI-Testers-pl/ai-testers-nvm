@@ -1,5 +1,7 @@
 # AI Testers – NVM
 
+Znajdziesz tutaj wszystkie informacje potrzebne do zainstalowania i korzystania z **NVM** (Node Version Manager). Rozszerzenie tematów znajdziesz w kursie **(AI_Testers vol. 1 – Dodatki Zaawansowane)[https://jaktestowac.pl/course/ait1-bonusy-2/]** z programu **(AI_Testers)[https://aitesters.pl]**.
+
 ## Instalacja projektu
 
 ### 1. Sklonuj repozytorium
@@ -44,7 +46,6 @@ npm install
 
 - 🟢 [NVM](https://www.nvmnode.com)
 - 💙 [VS Code](https://code.visualstudio.com)
-
 
 ---
 
